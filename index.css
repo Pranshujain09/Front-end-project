@@ -1,0 +1,166 @@
+*{
+    background-color:black;
+    color:white;
+}
+
+
+.container1{
+    display:flex;
+    justify-content:space-around;
+    
+}
+
+
+
+.button{
+    height: 25px;
+    width:50px;
+    border-radius: 19px;
+    border-color: #eda82b;
+}
+
+
+.container2{
+    display: flex;
+    
+}
+
+
+.button1{
+    height: 30px;
+    width:80px;
+    border-radius: 19px;
+    background-color: #f4b325;
+    background-image: linear-gradient(#f0cb27,#ef9b2f);
+
+}
+
+.container3{
+    height: 100px;
+    width:400px;
+    display:flex;
+    justify-content:space-around;
+
+}
+
+
+.button2{
+        height: 30px;
+        width:120px;
+        border-radius: 19px;
+        background-color: #f4b325;
+        background-image: linear-gradient(#f0cb27,#ef9b2f);
+    
+    }
+
+.container6{
+    height:200px;
+    width:140px;
+    margin-top:-270px;
+    margin-left:900px;
+    padding:20px;
+    text-align:center;
+    border: 1px solid white;
+    border-radius:3px;
+    background-color: white;
+  
+}
+.box1{
+     background-color: white; 
+    color: gray;
+    /* margin-bottom: 0px; */
+     max-width: 100%;
+    line-break: anywhere;
+}
+
+
+.button3{
+    height: 30px;
+        width:90px;
+        border-radius: 3px;
+        background-color: white;
+        color: rgb(69,104,243);
+        margin-left: 950px;
+        margin-top: 15px;
+        font-size: 14px;
+       
+
+
+}
+
+.container7{
+    height:200px;
+    width:140px;
+    margin-top:-20px;
+    margin-left:500px;
+    padding:20px;
+    text-align:center;
+    border: 1px solid white;
+    border-radius:3px;
+    background-color: white;
+  
+}
+
+.box2{
+    background-color: white; 
+   color: gray;
+   /* margin-bottom: 0px; */
+    max-width: 100%;
+   line-break: anywhere;
+}
+
+
+
+.button4{
+    height: 30px;
+        width:90px;
+        border-radius: 3px;
+        background-color: white;
+        color: rgb(69,104,243);
+        margin-left: 545px;
+        margin-top: 15px;
+        font-size: 14px;
+    
+
+}
+
+.container8{
+    height:200px;
+    width:140px;
+    margin-top:-140px;
+    margin-left:860px;
+    padding:20px;
+    text-align:center;
+    border: 1px solid white;
+    border-radius:3px;
+    background-color: white;
+  
+}
+
+
+.box3{
+    background-color: white; 
+   color: gray;
+   /* margin-bottom: 0px; */
+    max-width: 100%;
+   line-break: anywhere;
+}
+
+
+.button5{
+    height: 30px;
+        width:90px;
+        border-radius: 3px;
+        background-color: white;
+        color: rgb(69,104,243);
+        margin-left: 910px;
+        margin-top: 15px;
+        font-size: 14px;
+    
+}
+
+.circle{
+    
+
+}
+
